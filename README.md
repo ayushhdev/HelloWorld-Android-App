@@ -112,7 +112,7 @@ Open the application.
 
 ### Expected Output
 
-The application starts without any errors and displays the motivational quote on a colorful gradient background.
+The application starts without any errors and displays the Hello World on a colorful gradient background.
 
 ### Actual Output
 
